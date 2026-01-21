@@ -34,3 +34,8 @@ SetArtificialLightsState(true);
 // Enable all lights in the map.
 SetArtificialLightsState(false);
 ```
+-- Disable all lights in the map.
+SetArtificialLightsState(true)
+
+-- Enable all lights in the map.
+SetArtificialLightsState(false)
